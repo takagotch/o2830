@@ -4,10 +4,10 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: TKVTV
 # description: This will be meta HTML tag content. This can be ignored.
-description: きょうもあめです。
+description: きょうは☀です。
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "https://takagotch.github.io/page61/"
+baseurl: "https://tkvtv.com/"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -126,3 +126,5 @@ exclude:
     "node_modules",
     "package.json",
   ]
+
+
