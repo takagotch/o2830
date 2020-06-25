@@ -18,7 +18,7 @@
 #   timeline-side: right
 
 - title: NOW
-  title-url: https://facebook.com/takagotch
+  title-url: https://github.com/takagotch
   date: Sep 2019 - Present
   subtitle: Fullstack Developer
   tags:
@@ -47,7 +47,7 @@
   timeline-side: left
 
 - title: Home town
-  title-url: https://example.com/
+  title-url: https://www.city.osaka.lg.jp/
   date: Sep 2012 - Mar 2014
   subtitle: Front-End Developer as Intern
   tags:
