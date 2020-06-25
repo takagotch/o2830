@@ -11,7 +11,7 @@
 - name: 俺らは前世でも愛し合っていた。今世でも結婚しよう
   weight: 4
 
-- name: Python
+- name: お前のこと一生守ってやるよ
   weight: 2
 
 - name: 君はもう僕しか見えてないね
@@ -20,22 +20,22 @@
 - name: 次会うときは星降る夜に
   weight: 3
 
-- name: SASS
+- name: もうこの手を絶対に離すな！
   weight: 3
 
-- name: Java
+- name: 君みたいな美しい人見たことない
   weight: 1
 
-- name: Dart
+- name: 今までこんな気持ちを抱いたのは君が初めてだ
   weight: 1
 
-- name: Swift
+- name: 君のこと忘れられないんだ！何度忘れようとしても
   weight: 1
 
-- name: Kotlin
+- name: 何もしなくていいから、俺のそばにずといろ
   weight: 1
 
-- name: C++
+- name: バカだな…俺と一緒にいればそんなこと絶対にないのに
   weight: 2
 
 - name: 君のハートにチェックメイト！
