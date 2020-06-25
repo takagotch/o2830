@@ -5,29 +5,29 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: 童貞
   weight: 5
 
-- name: AngularJS
+- name: 世界でお前ほどキレイな人はいない
   weight: 3
 
-- name: React
+- name: お前がいない世界なんて生きてる意味がない
   weight: 4
 
-- name: Node
+- name: お前に涙は似合わない。お前に悲しい顔をさせた奴は許さない
   weight: 1
 
-- name: Flutter
+- name: 君はもう僕しか見えてないね
   weight: 2
 
-- name: Express
+- name: 君のハートにチェックメイト！
   weight: 3
 
-- name: Django
+- name: 俺らは前世でも愛し合っていた。今世でも結婚しよう
   weight: 1
 
-- name: Spring
+- name: 次会うときは星降る夜に
   weight: 2
 
-- name: Rails
+- name: 俺らは前世でも愛し合っていた。今世でも結婚しよう
   weight: 4
