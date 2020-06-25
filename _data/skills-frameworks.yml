@@ -5,7 +5,7 @@
 # - name: Framework
 #   weight: 5
 
-- name: 童貞
+- name: 君に会えたことが最高の贈り物だよ
   weight: 5
 
 - name: 世界でお前ほどキレイな人はいない
@@ -14,7 +14,7 @@
 - name: お前がいない世界なんて生きてる意味がない
   weight: 4
 
-- name: 君に会えたことが最高の贈り物だよ
+- name: 童貞
   weight: 1
 
 - name: 君のことマジで大事にしたいと思ってるよ
