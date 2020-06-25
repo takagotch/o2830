@@ -43,7 +43,7 @@ about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, s
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+skills_title: 愛のことば
 
 # TIMELINE SECTION
 # show_timeline_card:
