@@ -5,19 +5,19 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
+- name: お前に涙は似合わない。お前に悲しい顔をさせた奴は許さない
   weight: 5
 
-- name: JavaScript
+- name: 俺らは前世でも愛し合っていた。今世でも結婚しよう
   weight: 4
 
 - name: Python
   weight: 2
 
-- name: HTML5
+- name: 君はもう僕しか見えてないね
   weight: 4
 
-- name: CSS3
+- name: 次会うときは星降る夜に
   weight: 3
 
 - name: SASS
@@ -38,5 +38,5 @@
 - name: C++
   weight: 2
 
-- name: Ruby
+- name: 君のハートにチェックメイト！
   weight: 2
