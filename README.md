@@ -1,7 +1,7 @@
 ### [TKVTV.com](https://tkvtv.com/) : https://takagotch.github.io/o2830/
 ---
 
-
+#### https://github.com/takagotch/netlify netlify - GithubPage
 
 ```
 ```
