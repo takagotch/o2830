@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: ActiVate-D
 # description: This will be meta HTML tag content. This can be ignored.
-description: きょうは☀です。
+description: 今月のアクティベイティッド企画配信は、井岡VS田中！
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "https://tkvtv.com/"
@@ -14,17 +14,17 @@ baseurl: "https://tkvtv.com/"
 username: Takagotch
 typing_text: This will be typed before 'scroll down for more ActiVate-D'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: きょうは☀です。
+typing_text: 今月のアクティベイティッド企画配信は、井岡VS田中！
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: takagotch@activated.sakura.ne.jp
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: takagotch
-codepen_username: takagotch
-dev_username: takagotch
+github_username:   takagotch
+codepen_username:  takagotch
+dev_username:      takagotch
 linkedin_username: takagotch
-#twitter_username: takagotch
+twitter_username:  takagotch
 facebook_username: tkgcci
 
 # ABOUT ME SECTION
