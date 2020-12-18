@@ -12,7 +12,7 @@ baseurl: "https://tkvtv.com/"
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username:    Takagotch
-typing_text: This will be typed before 'scroll down for more ActiVate-D'.
+typing_text: This will be typed before '今月のアクティベイティッド企画配信は、井岡VS田中！'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: 井岡VS田中！
 # email: Your E-Mail address for the email button.
