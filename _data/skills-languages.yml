@@ -5,40 +5,40 @@
 # - name: Language
 #   weight: 5
 
-- name: お前に涙は似合わない。お前に悲しい顔をさせた奴は許さない
-  weight: 5
-
-- name: 俺らは前世でも愛し合っていた。今世でも結婚しよう
-  weight: 4
-
-- name: お前のこと一生守ってやるよ
-  weight: 2
-
-- name: 君はもう僕しか見えてないね
-  weight: 4
-
-- name: 次会うときは星降る夜に
-  weight: 3
-
-- name: もうこの手を絶対に離すな！
-  weight: 3
-
-- name: 君みたいな美しい人見たことない
+- name: 起訴
   weight: 1
 
-- name: 今までこんな気持ちを抱いたのは君が初めてだ
+- name: バレー選手
   weight: 1
 
-- name: 君のこと忘れられないんだ！何度忘れようとしても
+- name: 新型コロナ
   weight: 1
 
-- name: 何もしなくていいから、俺のそばにずといろ
+- name: 保健体育
   weight: 1
 
-- name: バカだな…俺と一緒にいればそんなこと絶対にないのに
-  weight: 2
+- name: トミカ50周年
+  weight: 1
 
-- name: 君のハートにチェックメイト！
-  weight: 2
+- name: あと1話
+  weight: 1
+
+- name: 敗者復活
+  weight: 1
+
+- name: もぐらさん
+  weight: 1
+
+- name: モンストの日
+  weight: 1
+
+- name: 雪の中、車内で聞いた産声
+  weight: 1
+
+- name: 日本郵便
+  weight: 1
+
+- name: ホテル通い
+  weight: 1
   
   
