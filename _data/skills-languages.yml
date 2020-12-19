@@ -9,36 +9,29 @@
   weight: 1
 
 - name: バレー選手
-  weight: 1
+  weight: 2
 
 - name: 新型コロナ
-  weight: 1
+  weight: 3
 
 - name: 保健体育
-  weight: 1
+  weight: 4
 
 - name: トミカ50周年
-  weight: 1
+  weight: 5
 
 - name: あと1話
   weight: 1
 
 - name: 敗者復活
-  weight: 1
+  weight: 2
 
 - name: もぐらさん
-  weight: 1
+  weight: 3
 
 - name: モンストの日
-  weight: 1
+  weight: 4
 
 - name: 雪の中、車内で聞いた産声
-  weight: 1
+  weight: 5
 
-- name: 日本郵便
-  weight: 1
-
-- name: ホテル通い
-  weight: 1
-  
-  
