@@ -11,7 +11,7 @@
   <label class="filter-button neumorphism-button" for="tool">3月</label>
   <input type="radio" id="tool" name="filter" />
   <label class="filter-button neumorphism-button" for="one">4月</label>
-  <input type="radio" id="tool" name="filter" />
+  <input type="radio" id="one" name="filter" />
 
   <!--
   <label class="filter-button neumorphism-button" for="two">5月</label>
@@ -47,19 +47,22 @@
     </div>
   {% endfor %}
   
-  {% for tool in site.data.skills-one %}
+  {% for tool in site.data.skills-tools %}
     <div skill-type="tool" skill-weight="{{tool.weight}}" data-aos="zoom-in">
       {{tool.name}}
     </div>
   {% endfor %}
 
-<!--
-  // 5  
-  {% for tool in site.data.skills-tools %}
-    <div skill-type="tool" skill-weight="{{tool.weight}}" data-aos="zoom-in">
+ 
+  {% for tool in site.data.skills-one %}
+    <div skill-type="one" skill-weight="{{one.weight}}" data-aos="zoom-in">
       {{tool.name}}
     </div>
-  {% endfor %}{% for tool in site.data.skills-tools %}
+  {% endfor %}
+  
+  <!--
+  // 5 
+  {% for tool in site.data.skills-tools %}
     <div skill-type="tool" skill-weight="{{tool.weight}}" data-aos="zoom-in">
       {{tool.name}}
     </div>
