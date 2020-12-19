@@ -8,5 +8,11 @@
 - name: 予防医学
   weight: 1
   
+- name: けんた
+  weight: 2
+    
+- name: 衝撃事実
+  weight: 
+  
   
   
