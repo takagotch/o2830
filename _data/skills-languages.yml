@@ -1,0 +1,44 @@
+# > name: Name of your programming language
+# > weight: Describes how good you know the language - values from 1 up to 5
+#
+# Example of a Language
+# - name: Language
+#   weight: 5
+
+- name: お前に涙は似合わない。お前に悲しい顔をさせた奴は許さない
+  weight: 5
+
+- name: 俺らは前世でも愛し合っていた。今世でも結婚しよう
+  weight: 4
+
+- name: お前のこと一生守ってやるよ
+  weight: 2
+
+- name: 君はもう僕しか見えてないね
+  weight: 4
+
+- name: 次会うときは星降る夜に
+  weight: 3
+
+- name: もうこの手を絶対に離すな！
+  weight: 3
+
+- name: 君みたいな美しい人見たことない
+  weight: 1
+
+- name: 今までこんな気持ちを抱いたのは君が初めてだ
+  weight: 1
+
+- name: 君のこと忘れられないんだ！何度忘れようとしても
+  weight: 1
+
+- name: 何もしなくていいから、俺のそばにずといろ
+  weight: 1
+
+- name: バカだな…俺と一緒にいればそんなこと絶対にないのに
+  weight: 2
+
+- name: 君のハートにチェックメイト！
+  weight: 2
+  
+  
