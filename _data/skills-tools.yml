@@ -8,3 +8,11 @@
 - name: 感染拡大
   weight: 1
 
+- name: 日本郵便
+  weight: 2
+
+- name: ホテル通い
+  weight: 3
+  
+  
+
