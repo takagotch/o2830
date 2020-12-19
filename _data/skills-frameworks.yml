@@ -9,27 +9,24 @@
   weight: 1
 
 - name: 感染20万人
-  weight: 1
+  weight: 2
 
 - name: 公私混同と批判殺到
-  weight: 1
-
-- name: 童貞
-  weight: 1
+  weight: 3
 
 - name: NHK受信料の徴収
-  weight: 1
+  weight: 4
 
 - name: 今年失った三文字2020
-  weight: 1
+  weight: 5
 
 - name: 先生を消す方程式
   weight: 1
 
 - name: 憲法改正
-  weight: 1
+  weight: 2
 
 - name: 大みそかの終夜運転や夜通し初詣　やめる判断続々
-  weight: 1
+  weight: 3
   
   
