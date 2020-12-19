@@ -1,0 +1,35 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: 君に会えたことが最高の贈り物だよ
+  weight: 5
+
+- name: 世界でお前ほどキレイな人はいない
+  weight: 3
+
+- name: お前がいない世界なんて生きてる意味がない
+  weight: 4
+
+- name: 童貞
+  weight: 1
+
+- name: 君のことマジで大事にしたいと思ってるよ
+  weight: 2
+
+- name: もし君になにかあったら困るから、気を付けろよ
+  weight: 3
+
+- name: 朝起きて1番に君のこと見られるなんて幸せだよ
+  weight: 1
+
+- name: 会えないときも、心はいつもそばにいるよ
+  weight: 2
+
+- name: 俺らは前世でも愛し合っていた。今世でも結婚しよう
+  weight: 4
+  
+  
