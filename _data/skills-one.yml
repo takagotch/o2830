@@ -12,7 +12,43 @@
   weight: 2
     
 - name: 衝撃事実
-  weight: 
+  weight: 3
   
+- name: ロックダウン 
+  weight: 4
   
+- name: テレビ西日本
+  weight: 5
+    
+- name: 赤チン
+  weight: 1
+ 
+- name: M-1グランプリ
+  weight: 2
   
+- name: 完全移籍
+  weight: 3
+    
+- name: 通勤手当廃止
+  weight: 4
+  
+- name: 大舞台でみせる
+  weight: 5
+  
+- name: 特別映像公開中
+  weight: 1
+    
+- name: プロモーション
+  weight: 2
+  
+- name: ユーチューバー
+  weight: 3
+  
+- name: おじさん
+  weight: 4
+    
+- name: ヨドンナ様
+  weight: 5
+  
+
+
