@@ -21,8 +21,8 @@ email:       takagotch@activated.sakura.ne.jp
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username:   takagotch
-codepen_username:  takashi-yoshioka
-codepen_username:  takagotch
+codepen_username:  takashi-yoshioka # linked goog
+# codepen_username:  takagotch      # linked fb
 # dev_username:      takagotch
 linkedin_username: takagotch
 twitter_username:  takagotch
