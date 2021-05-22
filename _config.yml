@@ -4,7 +4,11 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: ActiVate-D
 # description: This will be meta HTML tag content. This can be ignored.
-description: 今月のアクティベイティッド企画配信は、井岡VS田中！
+description: 東京オリンピック。女子バレー！
+
+#
+#今月のアクティベイティッド企画配信は、井岡VS田中！
+#
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "https://tkvtv.com/"
